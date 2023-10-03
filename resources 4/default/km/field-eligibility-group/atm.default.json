@@ -1,0 +1,10 @@
+{
+  "$id": "atm.default",
+  "$schema": "https://schema.yext.com/config/km/field-eligibility-group/v1",
+  "name": "ATM-default",
+  "entityType": "atm",
+  "fields": [
+    "c_openDate"
+  ],
+  "required": []
+}
